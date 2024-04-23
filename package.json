@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mongoose": "^8.3.1"
+    "mongoose": "^8.3.1",
+    "notistack": "^3.0.1"
   }
 }

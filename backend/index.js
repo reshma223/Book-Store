@@ -16,7 +16,7 @@ app.use(cors());
 //Option 2: Allow custom origins
 // app.use(
 //   cors({
-//     origin:'http://localhost:3000',
+//     origin:'http://localhost:5555',
 //     methods:['GET','POST','PUT','DELETE'],
 //     allowedHeaders:['Content-Type'],
 //   })
